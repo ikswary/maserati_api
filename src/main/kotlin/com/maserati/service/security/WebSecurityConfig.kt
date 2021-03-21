@@ -1,4 +1,4 @@
-package com.maserati.service.service
+package com.maserati.service.security
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity
